@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+scikit-learn
+tensorflow-gpu
+torch
+seaborn
+matplotlib
+customtkinter
+pyautogui
+pandas 
